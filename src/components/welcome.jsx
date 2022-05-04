@@ -4,7 +4,7 @@ import { SiEthereum } from 'react-icons/si';
 import { BsInfoCircle } from 'react-icons/bs';
 import { Loader } from './';
 import { TransactionContext } from '../context/TransactionContext';
-import { current } from '@reduxjs/toolkit';
+// import { current } from '@reduxjs/toolkit';
 import shortenAddress from '../utils/shortenAddress';
 
 const commonStyles =
